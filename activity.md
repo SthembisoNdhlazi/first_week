@@ -1,5 +1,5 @@
-Monday: Went to Glucode for the first time.
-Tuesday: Had my first online meeting at Glucode.
-Wednesday: Prepared for the IACD Presentation.
-Thursday: Presented the student portal app for the IACD.
-Friday: Presented my breaking bad app, got very nervous.
+**Monday**: Went to Glucode for the first time.
+**Tuesday**: Had my first online meeting at Glucode.
+**Wednesday**: Prepared for the IACD Presentation.
+**Thursday**: Presented the student portal app for the IACD.
+**Friday**: Presented my breaking bad app, got very nervous.
